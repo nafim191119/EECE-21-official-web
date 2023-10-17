@@ -7,7 +7,7 @@
     font-family: 'Poppins';
 }
 
-.card {
+.cardbox {
     position: relative;
     width: 300px;
     height: 190px;
@@ -18,7 +18,7 @@
     margin-bottom: 200px;
 }
 
-.card:hover {
+.cardbox:hover {
     height: 380px;
 }
 
@@ -36,7 +36,7 @@
     transition: 0.5s;
 }
 
-.card:hover .imgBox {
+.cardbox:hover .imgBox {
     width: 220px;
     height: 240px;
     margin-bottom: 5px;
@@ -51,7 +51,7 @@
     object-fit: cover;
 }
 
-.card .content{
+.cardbox .content{
     position: absolute;
     width: 100%;
     height: 100%;
@@ -62,7 +62,7 @@
     transition: 0.5s;
 }
 
-.card .content .details{
+.cardbox .content .details{
     padding: 40px;
     text-align: center;
     width: 100%;
@@ -70,48 +70,48 @@
     transform: translateY(150px);
 }
 
-.card:hover .content .details {
+.cardbox:hover .content .details {
     transform: translateY(0px);
 }
 
-.card .content .details h2 {
+.cardbox .content .details h2 {
     font-size: 1.25em;
     font-weight: 600;
     color: #555;
     line-height: 1.2em;
 }
 
-.card:hover .content{
+.cardbox:hover .content{
     margin-top: 30px;
     transition: 0.5s;
 }
 
-.card .content .details h2 span {
+.cardbox .content .details h2 span {
     font-size: 0.75em;
     font-weight: 500;
     opacity: 0.5;
 }
 
-.card .content .details .data {
+.cardbox .content .details .data {
     display: flex;
     justify-content: space-between;
     margin: 20px 0;
 }
 
-.card .content .details h3 {
+.cardbox .content .details h3 {
     font-size: 1em;
     color: #000000;
     line-height: 1.2em;
     font-weight: 600;
 }
 
-.card .content .details h3 span {
+.cardbox .content .details h3 span {
     font-size: 0.95em;
     font-weight: 900;
     opacity: 0.5;
 }
 
-.card .content .details .actionBtn{
+.cardbox .content .details .actionBtn{
     display: flex;
     justify-content: center;
     align-items: center;
@@ -119,7 +119,7 @@
 
 }
 
-.card .content .details .actionBtn button {
+.cardbox .content .details .actionBtn button {
     padding: 10px 30px;
     border: none;
     border-radius: 10px;
@@ -131,7 +131,7 @@
     cursor: pointer;
 }
 
-.card .content .details .actionBtn button:nth-child(2){
+.cardbox .content .details .actionBtn button:nth-child(2){
     border: 1px solid #999;
     color: #ffffff;
     background: #7700ff;

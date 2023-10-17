@@ -3,7 +3,7 @@ import './Card.css';
 const Card = ({ item }) => {
     const { name, image, ID, section, level } = item;
     return (
-        <div className="card mx-auto">
+        <div className="cardbox mx-auto">
             <div className="imgBox">
                 <img src={image} alt="" />
             </div>

@@ -11,7 +11,7 @@ const Footer = () => {
                     <p className="font-bold text-2xl">
                         MILITARY INSTITUTE OF SCIENCE AND TECHNOLOGY <br />Providing reliable tech since 1998-{currentYear}.
                     </p>
-                    <p className="font-bold mt-2">Copyright © {currentYear} - All right reserved by <span className="bg-red-900 px-4 py-2 rounded-lg uppercase text-white">Nafim</span>.</p>
+                    <p className="font-bold mt-2">Copyright © {currentYear} - All right reserved by <span className="bg-red-900 px-4 py-2 rounded-lg uppercase text-white">Nafim.</span></p>
                 </aside>
                 <span className="bg-red-900 px-8 py-2 rounded-lg uppercase text-white text-3xl font-bold"><Clock></Clock></span>
                 <nav>
