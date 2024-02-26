@@ -6,7 +6,7 @@ const NavBar = () => {
         <div>
             <div className="navbar bg-primary">
                 <div className="navbar-start">
-                    <a className="btn btn-ghost normal-case text-3xl text-white">MIST EECE-21</a>
+                    <Link to="/"><a className="btn btn-ghost normal-case text-3xl text-white">MIST EECE-21</a></Link>
                 </div>
                 <div className="navbar-center hidden lg:flex text-white">
                     <ul className="menu menu-horizontal px-1 font-bold">

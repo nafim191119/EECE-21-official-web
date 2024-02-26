@@ -1,7 +1,8 @@
+import { Link } from 'react-router-dom';
 import './Card.css';
 
 const Card = ({ item }) => {
-    const { name, image, ID, section, level, off } = item;
+    const { name, image, ID, section, level, off, msg } = item;
     return (
         <div className="cardbox mx-auto">
             <div className="imgBox">
@@ -20,7 +21,7 @@ const Card = ({ item }) => {
                     </div>
                     <div className="actionBtn">
                         {
-                            off ? null : <button>Message</button>
+                            off ? null : <button><Link to={msg}>Message</Link></button>
                         }
                         
                     </div>

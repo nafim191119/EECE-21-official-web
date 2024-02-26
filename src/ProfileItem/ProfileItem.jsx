@@ -10,7 +10,7 @@ const ProfileItem = () => {
             .then(data => setStudentInfo(data))
     }, [])
     return (
-        <div className="grid lg:grid-cols-4 md:grid-cols-4 sm:grid-cols-1 mt-40">
+        <div className="grid lg:grid-cols-3 md:grid-cols-3 sm:grid-cols-1 mt-40">
             {
                 studentInfo.map(item => <Card
                     key={item._id}
