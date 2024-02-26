@@ -1,4 +1,4 @@
-import { Avatar } from "@mui/material";
+
 import { Link } from "react-router-dom";
 
 const NavBar = () => {
@@ -16,11 +16,7 @@ const NavBar = () => {
                     </ul>
                 </div>
                 <div className="navbar-end hidden lg:flex text-white">
-                    <ul className="menu menu-horizontal px-1 font-bold">
-                        <Avatar alt="Travis Howard" src="/static/images/avatar/2.jpg" />
-                        <li><Link to="/login" className="">Log in</Link></li>
-                        <li><Link to="/signin" className="">Sign in</Link></li>
-                    </ul>
+                    
                 </div>
             </div>
         </div>

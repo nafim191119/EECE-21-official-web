@@ -1,7 +1,7 @@
 import './Card.css';
 
 const Card = ({ item }) => {
-    const { name, image, ID, section, level } = item;
+    const { name, image, ID, section, level, off } = item;
     return (
         <div className="cardbox mx-auto">
             <div className="imgBox">
@@ -9,15 +9,20 @@ const Card = ({ item }) => {
             </div>
             <div className="content">
                 <div className="details">
-                    <h2>Name:{name} <br /> <span>UX</span> </h2>
+                    <h2>{name} <br />  </h2>
                     <div className="data">
-                        <h3>Roll/ID <br /> <span>{ID}</span> </h3>
+                        <h3>Roll <br /> <span>{ID}</span> </h3>
                         <h3>Section <br /> <span>{section}</span> </h3>
-                        <h3>Role: <br /> <span>Level:{level}</span> </h3>
+                        {
+                            level ? <h3>Role: <br /> <span>{level}</span> </h3> : null
+                        }
+                        
                     </div>
                     <div className="actionBtn">
-                        <button>Facebook</button>
-                        <button>Message</button>
+                        {
+                            off ? null : <button>Message</button>
+                        }
+                        
                     </div>
                 </div>
             </div>

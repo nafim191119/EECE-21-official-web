@@ -9,8 +9,8 @@
 
 .cardbox {
     position: relative;
-    width: 300px;
-    height: 190px;
+    width: 280px;
+    height: 180px;
     background: #fff;
     border-radius: 20px;
     box-shadow: 0 35px 80px rgba(0, 0, 0, 0.15);
@@ -75,9 +75,9 @@
 }
 
 .cardbox .content .details h2 {
-    font-size: 1.25em;
-    font-weight: 600;
-    color: #555;
+    font-size: 1.30em;
+    font-weight: 700;
+    color: #060606;
     line-height: 1.2em;
 }
 
