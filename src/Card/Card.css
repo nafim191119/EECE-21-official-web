@@ -11,7 +11,7 @@
     position: relative;
     width: 310px;
     height: 170px;
-    background: #fff;
+    background: rgb(255, 255, 255);
     border-radius: 20px;
     box-shadow: 0 35px 80px rgba(0, 0, 0, 0.15);
     transition: 0.5s;

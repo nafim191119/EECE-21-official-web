@@ -21,7 +21,7 @@ const Card = ({ item }) => {
                     </div>
                     <div className="actionBtn">
                         {
-                            off ? null : <button><Link to={msg}>Message</Link></button>
+                            off ? <button>No need intro</button> : <button><Link to={msg}>Message</Link></button>
                         }
                         
                     </div>
