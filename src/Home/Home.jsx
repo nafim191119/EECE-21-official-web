@@ -1,5 +1,6 @@
 import Achivement from "../Components/Achivement/Achivement";
 import Club from "../Components/Club/Club";
+import EECE21 from "../Components/EECE-21/EECE21";
 import Progress from "../Components/Progress/Progress";
 import Project from "../Components/Project/Project";
 import Slider from "../Components/Slider/Slider";
@@ -16,6 +17,8 @@ const Home = () => {
             <Project></Project>
             <div className="divider"></div>
             <Club></Club>
+            <div className="divider"></div>
+            <EECE21></EECE21>
             <div className="divider"></div>
             <Progress></Progress>
             <div className="divider"></div>
