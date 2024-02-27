@@ -1,7 +1,7 @@
 
 const Club = () => {
     return (
-        <div>
+        <div className="mx-8">
             <h1>Clubs and other Activites</h1>
         </div>
     );

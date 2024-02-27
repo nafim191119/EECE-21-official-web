@@ -23,8 +23,8 @@ const NavBar = () => {
 
     return (
         <div>
-            <div role="alert" className="bg-primary flex justify-center items-center h-12 text-white mb-2 font-bold sm:text-3xl">
-                <span>Electrical, Electronics and Communication Engineering.</span>
+            <div role="alert" className="bg-primary flex justify-center items-center h-16 text-white mb-2 font-bold sm:text-3xl">
+                <span className="mx-6">Electrical, Electronics and Communication Engineering.</span>
             </div>
             <div className="navbar bg-primary">
                 <div className="navbar-start">

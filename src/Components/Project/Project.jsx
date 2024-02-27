@@ -1,7 +1,7 @@
 
 const Project = () => {
     return (
-        <div>
+        <div className="mx-8">
             <h1>Our Project in Department</h1>
         </div>
     );
