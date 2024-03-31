@@ -12,13 +12,13 @@ const Home = () => {
         <div>
             <Slider></Slider>
             <div className="divider"></div>
-            <Achivement></Achivement>
+            <EECE21></EECE21>
             <div className="divider"></div>
             <Project></Project>
             <div className="divider"></div>
             <Club></Club>
             <div className="divider"></div>
-            <EECE21></EECE21>
+            <Achivement></Achivement>
             <div className="divider"></div>
             <Progress></Progress>
             <div className="divider"></div>

@@ -1,0 +1,72 @@
+[
+    {
+        "_id": "0",
+        "image": "https://i.ibb.co/Gn6Pbgy/mongol-barota.jpg",
+        "title": "Mongol Barota URC Club"
+    },
+    {
+        "_id": "1",
+        "image": "https://i.ibb.co/51ymLZm/computer-Club.jpg",
+        "title": "Computer Club"
+    },
+    {
+        "_id": "2",
+        "image": "https://i.ibb.co/4Vsgbpw/cyber-Security.png",
+        "title": "Cyber Security Club"
+    },
+    {
+        "_id": "3",
+        "image": "https://i.ibb.co/GTF8XCQ/robotics.webp",
+        "title": "Robotics Club"
+    },
+    {
+        "_id": "4",
+        "image": "https://i.ibb.co/sj2Tghb/Automotive-Minimalist-Instagram-Post.png",
+        "title": "MOTO MIST Automotive Club"
+    },
+    {
+        "_id": "5",
+        "image": "https://i.ibb.co/PFCfdnq/Innovation.png",
+        "title": "Innovation Club"
+    },
+    {
+        "_id": "6",
+        "image": "https://i.ibb.co/z4qRzHP/aerospace-2.jpg",
+        "title": "Aeronautics and Astronautics Club"
+    },
+    {
+        "_id": "7",
+        "image": "https://i.ibb.co/b5jNG8R/career.jpg",
+        "title": "Career Club"
+    },
+    {
+        "_id": "8",
+        "image": "https://i.ibb.co/Q8mVFVK/debate.jpg",
+        "title": "Debating Club"
+    },
+    {
+        "_id": "9",
+        "image": "https://i.ibb.co/42HJnFT/ps.jpg",
+        "title": "Photographic Society Club"
+    },
+    {
+        "_id": "10",
+        "image": "https://i.ibb.co/51nqj7Y/environment.png",
+        "title": "Environmental Club"
+    },
+    {
+        "_id": "11",
+        "image": "https://i.ibb.co/pnBr972/litarature.jpg",
+        "title": "Literature and Cultural Club"
+    },
+    {
+        "_id": "12",
+        "image": "https://i.ibb.co/P6NN5Fn/drama.jpg",
+        "title": "Drama and Film Society Club"
+    },
+    {
+        "_id": "13",
+        "image": "https://i.ibb.co/MZnfNQ9/einothoven.png",
+        "title": "Einthoven Club"
+    }
+]

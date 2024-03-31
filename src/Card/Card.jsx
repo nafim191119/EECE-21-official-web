@@ -2,7 +2,7 @@ import { Link } from 'react-router-dom';
 import './Card.css';
 
 const Card = ({ item }) => {
-    const { name, image, ID, section, level, off, msg } = item;
+    const { name, image, ID, section, level, off, msg, bg } = item;
     return (
         <div className="cardbox mx-auto">
             <div className="imgBox">
@@ -20,7 +20,6 @@ const Card = ({ item }) => {
                         {
                             level ? <h3>Role <br /> <span>{level}</span> </h3> : null
                         }
-
                     </div>
                     <div className="actionBtn">
                         {
