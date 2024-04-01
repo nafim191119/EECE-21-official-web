@@ -3,7 +3,6 @@ import { Carousel } from 'react-responsive-carousel';
 import img1 from ".//../../assets/mist_campus_3.png";
 import img2 from ".//../../assets/mist_campus_2.jpg";
 import img3 from ".//../../assets/mist_campus_1.jpg";
-import img4 from ".//../../assets/mist_campus_4.jpg";
 
 const Slider = () => {
     return (
@@ -19,10 +18,6 @@ const Slider = () => {
                 </div>
                 <div>
                     <img src={img3} />
-                    <p className="legend">Military Institute of Science and Technology</p>
-                </div>
-                <div>
-                    <img src={img4} />
                     <p className="legend">Military Institute of Science and Technology</p>
                 </div>
             </Carousel>

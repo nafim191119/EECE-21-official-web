@@ -84,9 +84,9 @@ const Achivement = () => {
 
     return (
         <div className="mx-4">
-            <div className="mt-10 bg-pink-800 p-6 rounded-0 rounded-t-lg">
-                <h1 className="text-2xl md:text-4xl font-bold text-center text-white mb-4 uppercase underline">Unity in Vision</h1>
-                <p className="text-xl md:text-2xl font-bold text-center text-white">EECE-21 Collective Essence Captured.</p>
+            <div className="mt-10 bg-pink-800 p-2 rounded-0 rounded-t-lg">
+                <h1 className="text-2xl md:text-3xl font-bold text-center text-white mb-2 uppercase underline">Unity in Vision</h1>
+                <p className="text-md md:text-xl text-center text-white">EECE-21 Collective Essence Captured.</p>
             </div>
             <ImageList
                 sx={{ width: "100%", height: "auto" }}
@@ -94,15 +94,17 @@ const Achivement = () => {
                 cols={cols}
                 rowHeight={121}
             >
-                {itemData.map((item) => (
-                    <ImageListItem key={item.img} cols={item.cols || 1} rows={item.rows || 1}>
-                        <img
-                            {...srcset(item.img, 121, item.rows, item.cols)}
-                            alt={item.title}
-                            loading="lazy"
-                        />
-                    </ImageListItem>
-                ))}
+                {
+                    itemData.map((item) => (
+                        <ImageListItem key={item.img} cols={item.cols || 1} rows={item.rows || 1}>
+                            <img
+                                {...srcset(item.img, 121, item.rows, item.cols)}
+                                alt={item.title}
+                                loading="lazy"
+                            />
+                        </ImageListItem>
+                    ))
+                }
             </ImageList>
         </div>
     );

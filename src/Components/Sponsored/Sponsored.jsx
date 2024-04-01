@@ -2,11 +2,11 @@ import brand1 from "../../assets/company1.png";
 
 const Sponsored = () => {
     return (
-        <div className="bg-white p-12">
-            <h1 className="text-center text-4xl text-black font-bold">Our sponsored</h1>
-            <div className="divider mx-20"></div>
-            <div className="flex justify-center items-center">
-                <div className="mt-6 md:grid grid-cols-2 md:grid-cols-1 justify-center items-center gap-y-10">
+        <div className="mx-2">
+            <h1 className="text-center text-xl md:text-2xl text-white font-bold underline uppercase">Our sponsored</h1>
+            <div className="divider px-40"></div>
+            <div className="grid grid-cols-2 md:flex justify-center items-center gap-4">
+                <div className="bg-white p-4 rounded">
                     <img className="" src={brand1} alt="sponsor" width={158} height={48} />
                 </div>
             </div>
