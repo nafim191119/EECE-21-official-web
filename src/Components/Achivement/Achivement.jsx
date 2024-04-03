@@ -6,7 +6,7 @@ import useMediaQuery from "@mui/material/useMediaQuery";
 
 const itemData = [
     {
-        img: 'https://images.unsplash.com/photo-1551963831-b3b1ca40c98e',
+        img: 'https://i.ibb.co/dGd9c5p/grp1.jpg',
         title: 'EECE-21',
         rows: 2,
         cols: 2,
@@ -30,14 +30,14 @@ const itemData = [
         cols: 2,
     },
     {
-        img: 'https://images.unsplash.com/photo-1558642452-9d2a7deb7f62',
+        img: 'https://i.ibb.co/N3T2Bh3/received-589100430024069-1.jpg',
         title: 'Honey',
         author: '@arwinneil',
         rows: 2,
         cols: 2,
     },
     {
-        img: 'https://images.unsplash.com/photo-1516802273409-68526ee1bdd6',
+        img: 'https://i.ibb.co/DwqgGHQ/IMG-3488.jpg',
         title: 'Basketball',
     },
     {
@@ -45,9 +45,9 @@ const itemData = [
         title: 'Fern',
     },
     {
-        img: 'https://images.unsplash.com/photo-1597645587822-e99fa5d45d25',
+        img: 'https://i.ibb.co/CJSWC31/IMG-4008.jpg',
         title: 'Mushrooms',
-        rows: 2,
+        rows: 2.4,
         cols: 2,
     },
     {
@@ -59,9 +59,10 @@ const itemData = [
         title: 'Sea star',
     },
     {
-        img: 'https://images.unsplash.com/photo-1589118949245-7d38baf380d6',
+        img: 'https://i.ibb.co/VxSswkk/received-6869698239796613.jpg',
         title: 'Bike',
         cols: 2,
+        rows: 1.3
     },
 ];
 

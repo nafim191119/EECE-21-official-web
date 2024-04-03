@@ -3,13 +3,11 @@ import './Card.css';
 
 
 const Card = ({ item }) => {
-    const { name, image, ID, section, level, off, msg, group } = item;
+    const { name, image, ID, section, level, off, msg } = item;
     return (
         <div>
-            <h1 className='mx-44 bg-primary text-white font-bold'>{group? group: null}</h1>
             <div className="cardbox mx-auto">
                 <div className="imgBox">
-
                     <img src={image} alt="" />
                 </div>
                 <div className="content">

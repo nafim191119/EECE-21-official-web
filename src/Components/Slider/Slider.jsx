@@ -4,6 +4,9 @@ import img1 from ".//../../assets/mist_campus_3.png";
 import img2 from ".//../../assets/mist_campus_2.jpg";
 import img3 from ".//../../assets/mist_campus_1.jpg";
 
+
+
+
 const Slider = () => {
     return (
         <div className="min-h-80">

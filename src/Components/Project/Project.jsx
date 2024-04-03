@@ -19,7 +19,7 @@ const Project = () => {
                 <h1 className="text-2xl md:text-3xl font-bold text-center text-white mb-2 uppercase underline">Our Project</h1>
                 <p className="text-md md:text-xl text-center text-white">These are our group project in previous semester.</p>
             </div>
-            <ImageList sx={{ width: "100%", height: isMobile ? 300 : 450 }} cols={isMobile ? 1 : 3}>
+            <ImageList sx={{ width: "100%", height: isMobile ? 300 : 450 }} cols={isMobile ? 2 : 4}>
                 {
                     projectItem.map((item) => (
                         <ImageListItem key={item.img} cols={1}>
