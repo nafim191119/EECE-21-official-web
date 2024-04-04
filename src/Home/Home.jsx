@@ -22,7 +22,7 @@ const Home = () => {
             <Count></Count>
             <div className="divider"></div>
             <Sponsored></Sponsored>
-            
+
         </div>
     );
 };

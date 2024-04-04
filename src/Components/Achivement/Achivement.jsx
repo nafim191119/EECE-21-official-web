@@ -47,7 +47,7 @@ const itemData = [
     {
         img: 'https://i.ibb.co/CJSWC31/IMG-4008.jpg',
         title: 'Mushrooms',
-        rows: 2.4,
+        rows: 2,
         cols: 2,
     },
     {
@@ -62,7 +62,7 @@ const itemData = [
         img: 'https://i.ibb.co/VxSswkk/received-6869698239796613.jpg',
         title: 'Bike',
         cols: 2,
-        rows: 1.3
+        rows: 1.3,
     },
 ];
 

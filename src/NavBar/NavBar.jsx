@@ -23,12 +23,12 @@ const NavBar = () => {
 
     return (
         <div>
-            <div role="alert" className="bg-primary flex justify-center items-center h-16 text-white mb-2 font-bold sm:text-3xl">
+            <div role="alert" className="flex justify-center items-center h-12 text-white font-bold sm:text-3xl">
                 <span className="mx-6">Electrical, Electronics and Communication Engineering.</span>
             </div>
-            <div className="navbar bg-primary">
+            <div className="navbar border-0 border-b-2 border-t-2">
                 <div className="navbar-start">
-                    <Link to="/"><a className="btn btn-ghost normal-case text-3xl text-white">EECE</a></Link>
+                    <Link to="/"><button className="btn btn-ghost normal-case text-3xl text-white">EECE</button></Link>
                 </div>
                 <div className="navbar-center lg:flex text-white">
                     <ul className="menu menu-horizontal px-18 font-bold">
