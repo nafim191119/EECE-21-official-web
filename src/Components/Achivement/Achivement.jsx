@@ -25,8 +25,6 @@ const Achivement = () => {
 
     const cols = isMobile ? 2 : 4;
 
-
-
     return (
         <div className="mx-4">
             <div className="mt-10 bg-pink-800 p-2 rounded-0 rounded-t-lg">
