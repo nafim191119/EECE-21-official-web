@@ -19,7 +19,7 @@ ReactDOM.createRoot(document.getElementById('root')).render(
           background="transparent"
           minSize={0.6}
           maxSize={1}
-          particleDensity={500}
+          particleDensity={700}
           className="w-full md:h-[100px]"
           particleColor="#FFFFFF"
         />
