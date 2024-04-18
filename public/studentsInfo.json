@@ -332,9 +332,9 @@
     {
         "_id": "04",
         "name": "Labiba",
-        "image": "",
+        "image": "https://i.ibb.co/cD2HH2y/IMG-20240418-WA0003.jpg",
         "ID": "202316068",
-        "msg": "https://www.facebook.com/afim.nafim/",
+        "msg": "https://www.facebook.com/ruzaina.labiba",
         "section": "B"
     },
     {
@@ -348,9 +348,9 @@
     {
         "_id": "06",
         "name": "Mahdia Binte",
-        "image": "https://pbs.twimg.com/media/FfhkDtjWQAMYNrc.jpg:large",
+        "image": "https://i.ibb.co/vwrG6FJ/Whats-App-Image-2024-04-18-at-4-34-38-PM.jpg",
         "ID": "202316070",
-        "msg": "https://www.facebook.com/afim.nafim/",
+        "msg": "https://www.facebook.com/mahdia.bintemaksud",
         "section": "B"
     },
     {
@@ -397,10 +397,11 @@
     {
         "_id": "12",
         "name": "Imam",
-        "image": "https://pbs.twimg.com/media/FfhkDtjWQAMYNrc.jpg:large",
+        "image": "https://i.ibb.co/hVMmbrb/received-348105031576042.jpg",
         "ID": "202316081",
-        "msg": "https://www.facebook.com/afim.nafim/",
-        "section": "B"
+        "msg": "https://www.facebook.com/emam.hasan.7169",
+        "section": "B",
+        "off": "L"
     },
     {
         "_id": "13",
@@ -423,23 +424,23 @@
         "name": "Rifat",
         "image": "https://i.ibb.co/F5qxZLX/428687285-3780058978986614-1733048853438399797-n.jpg",
         "ID": "202316088",
-        "msg": "https://www.facebook.com/afim.nafim/",
+        "msg": "https://www.facebook.com/refat.hossen.77",
         "section": "B"
     },
     {
         "_id": "16",
         "name": "Sumaiya",
-        "image": "https://pbs.twimg.com/media/FfhkDtjWQAMYNrc.jpg:large",
+        "image": "https://i.ibb.co/zrCqbL3/IMG-20240418-WA0002.jpg",
         "ID": "202316089",
-        "msg": "https://www.facebook.com/afim.nafim/",
+        "msg": "https://www.facebook.com/sumaiya.ferdous.010",
         "section": "B"
     },
     {
         "_id": "17",
         "name": "Meherun Maya",
-        "image": "https://pbs.twimg.com/media/FfhkDtjWQAMYNrc.jpg:large",
+        "image": "https://i.ibb.co/GtNCVpY/Whats-App-Image-2024-04-18-at-5-06-40-PM.jpg",
         "ID": "202316091",
-        "msg": "https://www.facebook.com/afim.nafim/",
+        "msg": "https://www.facebook.com/meherunmaya.nahar",
         "section": "B"
     },
     {
@@ -485,25 +486,25 @@
     {
         "_id": "23",
         "name": "Jahan Mun",
-        "image": "https://pbs.twimg.com/media/FfhkDtjWQAMYNrc.jpg:large",
+        "image": "https://i.ibb.co/9NTWk4Y/Screenshot-20240418161309-1.jpg",
         "ID": "202316102",
-        "msg": "https://www.facebook.com/afim.nafim/",
+        "msg": "https://www.facebook.com/jahan.mun.79",
         "section": "B"
     },
     {
         "_id": "24",
         "name": "Sarah Zahin",
-        "image": "https://pbs.twimg.com/media/FfhkDtjWQAMYNrc.jpg:large",
+        "image": "https://i.ibb.co/WgJQ1fx/IMG-20240418-WA0000.jpg",
         "ID": "202316103",
-        "msg": "https://www.facebook.com/afim.nafim/",
+        "msg": "https://www.facebook.com/sarah.zahin.624",
         "section": "B"
     },
     {
         "_id": "25",
         "name": "Hafsa",
-        "image": "https://pbs.twimg.com/media/FfhkDtjWQAMYNrc.jpg:large",
+        "image": "https://i.ibb.co/0q2Z7K3/IMG-20240418-WA0001.jpg",
         "ID": "202316105",
-        "msg": "https://www.facebook.com/afim.nafim/",
+        "msg": "https://www.facebook.com/hafsa.khan29",
         "section": "B"
     },
     {
@@ -511,7 +512,7 @@
         "name": "Ratul",
         "image": "https://i.ibb.co/z7sb50S/399686491-890137976012103-2989862072363760798-n.jpg",
         "ID": "202316106",
-        "msg": "https://www.facebook.com/afim.nafim/",
+        "msg": "https://www.facebook.com/ratul.biswas.560272",
         "section": "B",
         "level": "CR"
     },
@@ -582,11 +583,11 @@
     {
         "_id": "35",
         "name": "Maj Jannatul Maowa",
-        "image": "https://pbs.twimg.com/media/FfhkDtjWQAMYNrc.jpg:large",
+        "image": "https://i.ibb.co/h7SQpF2/jannat.jpg",
         "ID": "202316130",
-        "msg": "https://www.facebook.com/afim.nafim/",
+        "msg": "https://www.facebook.com/jannatulmaowa.swarna",
         "section": "B",
-        "off": "M"
+        "officer": "M"
     }
 
 ]

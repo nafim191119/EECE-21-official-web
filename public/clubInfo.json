@@ -2,71 +2,85 @@
     {
         "_id": "0",
         "image": "https://i.ibb.co/Gn6Pbgy/mongol-barota.jpg",
-        "title": "Mongol Barota URC Club"
+        "title": "Mongol Barota URC Club",
+        "link": "https://mist.ac.bd/achievements/mist-mongol-barota-secured-5th-position-in-arc-2023-turkiye"
     },
     {
         "_id": "1",
         "image": "https://i.ibb.co/51ymLZm/computer-Club.jpg",
-        "title": "Computer Club"
+        "title": "Computer Club",
+        "link":"https://mist.ac.bd/page/computer-club1"
     },
     {
         "_id": "2",
         "image": "https://i.ibb.co/4Vsgbpw/cyber-Security.png",
-        "title": "Cyber Security Club"
+        "title": "Cyber Security Club",
+        "link":"https://cyber-range.mist.ac.bd/"
     },
     {
         "_id": "3",
         "image": "https://i.ibb.co/GTF8XCQ/robotics.webp",
-        "title": "Robotics Club"
+        "title": "Robotics Club",
+        "link":"https://mist.ac.bd/page/robotics-club"
     },
     {
         "_id": "4",
         "image": "https://i.ibb.co/sj2Tghb/Automotive-Minimalist-Instagram-Post.png",
-        "title": "MOTO MIST Automotive Club"
+        "title": "MOTO MIST Automotive Club",
+        "link":"https://mist.ac.bd/page/moto-mist-automotive-club"
     },
     {
         "_id": "5",
         "image": "https://i.ibb.co/PFCfdnq/Innovation.png",
-        "title": "Innovation Club"
+        "title": "Innovation Club",
+        "link":"https://mist.ac.bd/page/innovation-club"
     },
     {
         "_id": "6",
         "image": "https://i.ibb.co/z4qRzHP/aerospace-2.jpg",
-        "title": "Aeronautics and Astronautics Club"
+        "title": "Aeronautics and Astronautics Club",
+        "link":"https://mist.ac.bd/page/aeronautics-and-astronautics-club"
     },
     {
         "_id": "7",
         "image": "https://i.ibb.co/b5jNG8R/career.jpg",
-        "title": "Career Club"
+        "title": "Career Club",
+        "link":"https://mist.ac.bd/page/career-club"
     },
     {
         "_id": "8",
         "image": "https://i.ibb.co/Q8mVFVK/debate.jpg",
-        "title": "Debating Club"
+        "title": "Debating Club",
+        "link":"https://mist.ac.bd/page/mist-debating-society"
     },
     {
         "_id": "9",
         "image": "https://i.ibb.co/42HJnFT/ps.jpg",
-        "title": "Photographic Society Club"
+        "title": "Photographic Society Club",
+        "link":"https://mist.ac.bd/page/photographic-society"
     },
     {
         "_id": "10",
         "image": "https://i.ibb.co/51nqj7Y/environment.png",
-        "title": "Environmental Club"
+        "title": "Environmental Club",
+        "link":"https://mist.ac.bd/page/environment-club"
     },
     {
         "_id": "11",
         "image": "https://i.ibb.co/pnBr972/litarature.jpg",
-        "title": "Literature and Cultural Club"
+        "title": "Literature and Cultural Club",
+        "link":"https://mist.ac.bd/page/literature-and-cultural-club"
     },
     {
         "_id": "12",
         "image": "https://i.ibb.co/P6NN5Fn/drama.jpg",
-        "title": "Drama and Film Society Club"
+        "title": "Drama and Film Society Club",
+        "link":"https://mist.ac.bd/page/drama-and-film-society"
     },
     {
         "_id": "13",
         "image": "https://i.ibb.co/MZnfNQ9/einothoven.png",
-        "title": "Einthoven Club"
+        "title": "Einthoven Club",
+        "link":"https://mist.ac.bd/page/mist-einthoven-club"
     }
 ]
