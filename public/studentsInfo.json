@@ -53,7 +53,9 @@
         "image": "https://i.ibb.co/8M9yGHQ/358400989-2003075720043934-8181683329359561285-n.jpg",
         "ID": "202316071",
         "msg": "https://www.facebook.com/mahfuz.kabbo",
-        "section": "B"
+        "section": "B",
+        "level": "X"
+
     },
     {
         "_id": "08",
@@ -149,7 +151,7 @@
     {
         "_id": "20",
         "name": "Zishan",
-        "image": "https://i.ibb.co/QY0ZnPQ/426065602-1741993356268458-2925469807896401168-n.jpg",
+        "image": "https://i.ibb.co/P5Rkwk9/Whats-App-Image-2024-05-18-at-10-05-11-PM.jpg",
         "ID": "202316097",
         "msg": "https://www.facebook.com/mdzishan.kobir https://www.facebook.com/mdzishan.kobir",
         "section": "B"
@@ -482,8 +484,7 @@
         "image": "https://i.ibb.co/HVHFJBv/FB-IMG-1713185792217.jpg",
         "ID": "202316043",
         "msg": "https://www.facebook.com/mahmudul.bari.f.3",
-        "section": "A",
-        "level": "ACR"
+        "section": "A"
     },
     
     {
@@ -589,6 +590,7 @@
         "image": "https://i.ibb.co/xY5fykf/w.png",
         "ID": "202316207",
         "msg": "http://www.facebook.com/ankon.dasjoy",
-        "section": "A"
+        "section": "A",
+        "level": "ACR"
     }
 ]
