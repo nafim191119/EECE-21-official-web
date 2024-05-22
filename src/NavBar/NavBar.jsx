@@ -25,7 +25,7 @@ const NavBar = () => {
     return (
         <div>
             <div role="alert" className="flex justify-center items-center h-10 text-white font-bold sm:text-3xl">
-                <span className="mx-6">Electrical, Electronics and Communication Engineering.</span>
+                <span className="mx-6">Electrical, Electronic and Communication Engineering.</span>
             </div>
             <div className="navbar border-0 border-b-2 border-t-2">
                 <div className="navbar-start">
