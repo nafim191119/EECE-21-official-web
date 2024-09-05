@@ -28,7 +28,7 @@ const Project = () => {
                                 src={`${item.img}?w=248&fit=crop&auto=format`}
                                 alt={item.title}
                                 loading="lazy"
-                                style={{ width: '100%', height: 'auto' }}
+                                style={{ width: '100%', height: 'auto' }} 
                             />
                             <ImageListItemBar
                                 title={item.title}
