@@ -2,7 +2,7 @@
 The EECE-21 Official Website is a platform designed to provide information and resources for the EECE-21 students. Explore the latest updates, events, and resources tailored to Students, Clubs, Projects and MIST life of the Electrical, Electronics, and Communication Engineering department in MIST.
 
 # Live Demo Link:
-https://eece-21-official-web-kappa.vercel.app/
+[https://eece-21-official-web-kappa.vercel.app/](https://eece-21-official-web-ms1x.vercel.app/)
 
 # Project Overview
 The EECE-21 Official Website serves as a central hub for the Electrical, Electronics, and Communication Engineering (EECE) Dept. This website aims to provide a comprehensive platform offering various functionalities:
